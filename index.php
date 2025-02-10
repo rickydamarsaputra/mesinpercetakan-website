@@ -145,11 +145,9 @@ require_once('const.php');
                 <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
               </figure>
             </a>
-            <p class="text-justify mt-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet esse
-              explicabo rem nihil
-              consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
-              hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
-              fuga totam ea, necessitatibus accusantium ad sed?</p>
+            <p class="text-justify mt-4">
+              Untuk Anda yang mencari mesin cetak UV dengan fleksibilitas tinggi, <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="underline">Nocai NC-UV0609MAX</a> menawarkan kemampuan mencetak pada berbagai permukaan dengan hasil memukau. Cocok untuk mencetak pada kaca, logam, kayu, dan bahan lainnya. Mesin ini pas bagi Anda yang ingin membuka usaha di bidang percetakan custom seperti casing handphone, panel dekoratif, atau merchandise eksklusif. Klik gambar untuk mengetahui lebih lanjut.
+            </p>
             <div class="grid grid-cols-2 gap-4">
               <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" target="_blank">
                 <figure class="mt-4">
@@ -166,9 +164,45 @@ require_once('const.php');
                 </figure>
               </a>
             </div>
-            <p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quisquam.
-              Atque beatae laboriosam corporis, placeat quisquam fugit ipsa molestiae quam nobis ex odio, numquam
-              vitae.</p>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="underline">Nocai NC-UV0609MAX</a>, printer UV flatbed profesional yang dilengkapi dengan 3 printhead EPSON i3200-U1 Micro Piezo dengan teknologi UV curing modern. Mesin ini dirancang untuk menghasilkan cetakan berkualitas tinggi dengan resolusi maksimal hingga 2400dpi.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini menggunakan sistem CISS (Continuous Ink Supply System) dan teknologi UV LED lamp dengan air cooling untuk hasil optimal. Mampu menangani material dengan ketebalan 0-180 mm dan diameter silinder 30-120 mm untuk mode rotary.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>
+                3 printhead EPSON presisi tinggi dengan nozzle 600×4
+              </li>
+              <li>
+                Resolusi ultra tinggi 2400dpi untuk detail maksimal
+              </li>
+              <li>
+                Mode cetak CMYK+W dan CMYK+W+V (Varnish)
+              </li>
+              <li>
+                Sistem tinta kontinyu untuk produksi efisien
+              </li>
+              <li>
+                Motor servo dengan silent linear guideway dan screw drive
+              </li>
+              <li>
+                Sistem pengeringan UV LED dengan air cooling
+              </li>
+              <li>
+                Area cetak fleksibel (600×900mm / 600×870mm dengan varnish)
+              </li>
+              <li>
+                Mendukung berbagai material printing
+              </li>
+              <li>
+                Konstruksi premium dengan berat 226 kg
+              </li>
+              <li>
+                Sistem operasi yang stabil dengan RAM >6Gb
+              </li>
+            </ul>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS MPKFMP490ST MESIN POTONG KERTAS FORTIS MP490 ST</h2>
@@ -179,30 +213,28 @@ require_once('const.php');
                 <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
               </figure>
             </a>
-            <p class="text-justify mt-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet esse
-              explicabo rem nihil
-              consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
-              hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
-              fuga totam ea, necessitatibus accusantium ad sed?</p>
-            <div class="grid grid-cols-2 gap-4">
-              <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/028-web-paper-cutting-fortis-490st.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-              <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/028-web-paper-cutting-fortis-490st.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-            </div>
-            <p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quisquam.
-              Atque beatae laboriosam corporis, placeat quisquam fugit ipsa molestiae quam nobis ex odio, numquam
-              vitae.</p>
+            <p class="text-justify mt-4">
+              Memastikan potongan kertas yang presisi adalah kunci dalam dunia percetakan. <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="underline">FORTIS MPKFMP490ST</a> hadir dengan teknologi terkini untuk memastikan setiap potongan sempurna. Ideal untuk usaha percetakan buku, brosur, atau dokumen lainnya.
+            </p>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="underline">FORTIS MPKFMP490ST</a>, mesin potong kertas elektrik yang dirancang dengan teknologi modern untuk kebutuhan industri percetakan. Mesin ini menggunakan sistem electrical motor press dengan pendorong kertas elektrik untuk operasi yang efisien.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini dilengkapi dengan layar touchscreen 7 inch dan sistem memori multiple untuk kemudahan pengoperasian. Dengan fitur keamanan infra red sensor, mesin ini menjamin keselamatan operator selama penggunaan.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Kapasitas potong lebar hingga 490 mm</li>
+              <li>Tinggi tumpukan kertas maksimal 80 mm</li>
+              <li>Akurasi pemotongan presisi (±0.4 mm)</li>
+              <li>Sistem press elektrik untuk hasil konsisten</li>
+              <li>Layar touchscreen 7 inch untuk kontrol mudah</li>
+              <li>Multiple memory untuk penyimpanan program</li>
+              <li>Sensor infra merah untuk keamanan</li>
+              <li>Pendorong kertas elektrik otomatis</li>
+              <li>Konstruksi kokoh dengan berat 231 kg</li>
+              <li>Operasi yang aman dan efisien</li>
+            </ul>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS MJBOA3 MESIN JILID BUKU OTO A3 BM600</h2>
@@ -218,25 +250,6 @@ require_once('const.php');
               consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
               hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
               fuga totam ea, necessitatibus accusantium ad sed?</p>
-            <div class="grid grid-cols-2 gap-4">
-              <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/017-web-book-binding-bm-600.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-              <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/017-web-book-binding-bm-600.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-            </div>
-            <p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quisquam.
-              Atque beatae laboriosam corporis, placeat quisquam fugit ipsa molestiae quam nobis ex odio, numquam
-              vitae.</p>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS MG720 Mesin Gluing 720</h2>
@@ -252,25 +265,6 @@ require_once('const.php');
               consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
               hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
               fuga totam ea, necessitatibus accusantium ad sed?</p>
-            <div class="grid grid-cols-2 gap-4">
-              <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/043-web-mesin-gluing-720.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-              <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" target="_blank">
-                <figure class="mt-4">
-                  <img src="https://vicentra.co.id/storage/product-medias/043-web-mesin-gluing-720.webp"
-                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
-                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
-                </figure>
-              </a>
-            </div>
-            <p class="text-justify mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quisquam.
-              Atque beatae laboriosam corporis, placeat quisquam fugit ipsa molestiae quam nobis ex odio, numquam
-              vitae.</p>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="font-semibold">Tren Terkini dalam Industri Percetakan</h2>
@@ -285,16 +279,15 @@ require_once('const.php');
         </div>
         <div class="col-span-12 lg:col-span-4 mt-[2rem] lg:mt-0">
           <h1 class="text-2xl font-semibold text-gray-800">Artikel Lainnya</h1>
-          <div class="flex flex-col items-start gap-[0.625rem] mt-[1.875rem]"><a
-              href="https://vicentra.co.id/blog/informasi-terbaru/unboxing-dan-uji-coba-mesin-cnc-laser-co2-fortis-ntl-1390">
-              <h1 class="text-base">Unboxing dan Uji Coba Mesin CNC Laser CO2 Fortis NTL 1390</h1>
-              <p class="text-xs text-gray-500">23 Januari 2025</p>
-              <hr class="mt-[0.625rem]">
-            </a><a href="https://vicentra.co.id/blog/informasi-terbaru/surabaya-printing-expo-2022">
-              <h1 class="text-base">Surabaya Printing Expo 2022</h1>
-              <p class="text-xs text-gray-500">7 Desember 2024</p>
-              <hr class="mt-[0.625rem]">
-            </a></div>
+          <div class="flex flex-col items-start gap-[0.625rem] mt-[1.875rem]">
+            <?php foreach ($posts as $post): ?>
+              <a href="<?= $post['link_post']; ?>">
+                <h1 class="text-base"><?= $post['title']; ?></h1>
+                <p class="text-xs text-gray-500"><?= $post['created_at']; ?></p>
+                <hr class="mt-[0.625rem]">
+              </a>
+            <?php endforeach; ?>
+          </div>
         </div>
       </div>
     </section>

@@ -1,5 +1,6 @@
 <?php
 $products = [];
+$posts = [];
 
 $salesPeople = [
   [
@@ -35,3 +36,8 @@ $salesPeople = [
   //     "additional_sentence" => "Ada pertanyaan atau ingin memesan produk ini?"
   // ],
 ];
+
+$url = "https://vicentra.co.id/api/posts";
+$response = file_get_contents($url);
+
+$posts = json_decode($response, true)['data'];
