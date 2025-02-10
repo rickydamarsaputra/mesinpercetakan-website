@@ -245,11 +245,26 @@ require_once('const.php');
                 <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
               </figure>
             </a>
-            <p class="text-justify mt-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet esse
-              explicabo rem nihil
-              consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
-              hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
-              fuga totam ea, necessitatibus accusantium ad sed?</p>
+            <p class="text-justify mt-4">
+              Ingin hasil jilid buku yang rapi dan profesional? <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="underline">FORTIS MJBOA3</a> menawarkan kemudahan dan efisiensi dalam proses penjilidan. Cocok untuk usaha percetakan buku, majalah, atau laporan tahunan.
+            </p>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="underline">FORTIS MJBOA3</a>, mesin binding otomatis profesional yang dirancang untuk industri percetakan dan finishing buku. Mesin ini menggunakan sistem double roller dan side glue roller yang dilengkapi dengan teknologi milling cutter ganda untuk hasil yang maksimal.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini dapat memproses binding dengan panjang maksimal 420 mm dan ketebalan hingga 60 mm. Dilengkapi dengan fitur tri-folding dan sistem milling ganda (Small Milling Cutter + Sun Milling Cutter) untuk hasil pengerjaan yang presisi dan rapi.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Kapasitas produksi tinggi hingga 350 buku/jam</li>
+              <li>Sistem double roller dan side glue roller untuk aplikasi lem yang merata</li>
+              <li>Teknologi milling ganda untuk hasil potong yang presisi</li>
+              <li>Fitur tri-folding untuk fleksibilitas pengerjaan</li>
+              <li>Waktu leleh lem yang efisien (≤45 menit)</li>
+              <li>Konstruksi kokoh dengan berat 262 kg</li>
+              <li>Performa tinggi dengan daya 2200 Watt</li>
+              <li>Hasil binding profesional dan tahan lama</li>
+            </ul>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS MG720 Mesin Gluing 720</h2>
@@ -260,11 +275,23 @@ require_once('const.php');
                 <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
               </figure>
             </a>
-            <p class="text-justify mt-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet esse
-              explicabo rem nihil
-              consequuntur! Unde, voluptatem? Odit deleniti ex culpa harum quis labore repellat autem id vel beatae
-              hic quasi ullam amet alias, dolore nobis iusto fugit vero. Tempore asperiores delectus labore mollitia
-              fuga totam ea, necessitatibus accusantium ad sed?</p>
+            <p class="text-justify mt-4">
+              Untuk kebutuhan pelipatan dan penyegelan, <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="underline">FORTIS MG720</a> adalah solusi andal yang memastikan hasil akhir sempurna. Ideal untuk usaha percetakan kemasan, amplop, atau produk sejenis. Klik gambar untuk mengetahui lebih lanjut.
+            </p>
+            <p class="text-justify mt-4">
+              <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="underline">FORTIS MG720</a> adalah mesin laminating profesional dengan lebar media hingga 720 mm, cocok untuk kebutuhan finishing cetak seperti laminasi poster, banner, atau dokumen penting. Mesin ini memiliki kecepatan variabel hingga 30 meter per menit, memastikan efisiensi dalam proses produksi tanpa mengorbankan kualitas hasil.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini menggunakan daya hemat energi sebesar 120 Watt dan beroperasi pada tegangan 220 V dengan frekuensi 50-60 Hz. Dengan dimensi ringkas 940 × 410 × 960 mm dan bobot hanya 55 kg, mesin ini mudah ditempatkan di berbagai ruang kerja tanpa memakan banyak tempat.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Lebar Media Besar Mendukung laminasi media hingga lebar 720 mm untuk berbagai kebutuhan cetak.</li>
+              <li>Kecepatan Variabel Kecepatan hingga 30 meter per menit yang dapat disesuaikan sesuai kebutuhan.</li>
+              <li>Hemat Energi Konsumsi daya rendah hanya 120 Watt, cocok untuk penggunaan jangka panjang.</li>
+              <li>Desain Ringkas dan Portabel Dimensi yang kompak dengan bobot ringan memudahkan penempatan dan pemindahan.</li>
+              <li>Kinerja Stabil Didukung sistem yang dirancang untuk hasil laminasi berkualitas tinggi dan presisi.</li>
+            </ul>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="font-semibold">Tren Terkini dalam Industri Percetakan</h2>
