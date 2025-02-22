@@ -123,7 +123,7 @@ require_once('const.php');
             <h2 class="text-xl font-semibold text-gray-800">NEU Jet C4K MESIN PRINTER OUTDOOR C4K 512i</h2>
             <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" target="_blank">
               <figure class="mt-4">
-                <img src="https://vicentra.co.id/storage/product-medias/001-printer-outdoor-neu-jet-mpoc4k-001.webp"
+                <img src="./assets/images/mesin/new-jet-c4k.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
                 <figcaption class="text-center">printer-outdoor-neu-jet-c4k</figcaption>
               </figure>
