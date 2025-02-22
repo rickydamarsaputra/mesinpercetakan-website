@@ -14,6 +14,7 @@ require_once('const.php');
     content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
   <meta name="keywords" content="mesin percetakan, mesin cetak offset, mesin digital printing, mesin cetak spanduk, mesin cetak stiker, mesin percetakan murah, jual mesin percetakan, harga mesin percetakan, distributor mesin percetakan, mesin percetakan terbaik">
   <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+  <link rel="canonical" href="https://mesinpercetakan.id" />
 
   <title>Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik</title>
 
