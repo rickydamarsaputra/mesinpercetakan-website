@@ -122,7 +122,7 @@ require_once('const.php');
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">NEU Jet C4K MESIN PRINTER OUTDOOR C4K 512i</h2>
-            <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" target="_blank">
+            <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
               <figure class="mt-4">
                 <img src="./assets/images/mesin/new-jet-c4k.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
@@ -133,14 +133,14 @@ require_once('const.php');
               Butuh printer untuk kebutuhan outdoor dengan hasil cetak tajam dan tahan lama? <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="underline">NEU Jet C4K</a> siap memenuhi kebutuhan Anda. Ideal untuk mencetak spanduk, baliho, dan media luar ruang lainnya. Mesin ini sangat cocok bagi Anda yang ingin terjun ke bisnis periklanan atau jasa percetakan outdoor. Klik gambar untuk detail produk.
             </p>
             <div class="grid grid-cols-2 gap-4">
-              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" target="_blank">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
                 <figure class="mt-4">
                   <img src="https://vicentra.co.id/storage/product-medias/001-printer-outdoor-neu-jet-mpoc4k-002.webp"
                     alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
                   <figcaption class="text-center">printer-outdoor-neu-jet-c4k</figcaption>
                 </figure>
               </a>
-              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" target="_blank">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
                 <figure class="mt-4">
                   <img src="https://vicentra.co.id/storage/product-medias/001-printer-outdoor-neu-jet-mpoc4k-003.webp"
                     alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
@@ -175,7 +175,7 @@ require_once('const.php');
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">Nocai NC-UV0609MAX MESIN UV FLATBED NOCAI MAX - UV 0609 PEIII</h2>
-            <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" target="_blank">
+            <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
               <figure class="mt-4">
                 <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-001.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
@@ -186,14 +186,14 @@ require_once('const.php');
               Untuk Anda yang mencari mesin cetak UV dengan fleksibilitas tinggi, <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="underline">Nocai NC-UV0609MAX</a> menawarkan kemampuan mencetak pada berbagai permukaan dengan hasil memukau. Cocok untuk mencetak pada kaca, logam, kayu, dan bahan lainnya. Mesin ini pas bagi Anda yang ingin membuka usaha di bidang percetakan custom seperti casing handphone, panel dekoratif, atau merchandise eksklusif. Klik gambar untuk mengetahui lebih lanjut.
             </p>
             <div class="grid grid-cols-2 gap-4">
-              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" target="_blank">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
                 <figure class="mt-4">
                   <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-002.webp"
                     alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
                   <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
                 </figure>
               </a>
-              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" target="_blank">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
                 <figure class="mt-4">
                   <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-003.webp"
                     alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
@@ -243,7 +243,7 @@ require_once('const.php');
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS 490 ST MESIN POTONG KERTAS FORTIS MP490 ST</h2>
-            <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" target="_blank">
+            <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="detail_produk" target="_blank">
               <figure class="mt-4">
                 <img src="https://vicentra.co.id/storage/product-medias/028-web-paper-cutting-fortis-490st.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
@@ -275,7 +275,7 @@ require_once('const.php');
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS BM-600 A3 MESIN JILID BUKU OTO A3 BM600</h2>
-            <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" target="_blank">
+            <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="detail_produk" target="_blank">
               <figure class="mt-4">
                 <img src="https://vicentra.co.id/storage/product-medias/017-web-book-binding-bm-600.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
@@ -305,7 +305,7 @@ require_once('const.php');
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">FORTIS 720 Mesin Gluing 720</h2>
-            <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" target="_blank">
+            <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="detail_produk" target="_blank">
               <figure class="mt-4">
                 <img src="https://vicentra.co.id/storage/product-medias/043-web-mesin-gluing-720.webp"
                   alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
@@ -368,7 +368,7 @@ require_once('const.php');
         <?php foreach ($salesPeople as $sales): ?>
           <a href="https://api.whatsapp.com/send?phone=<?= $sales['phone']; ?>&text=Hallo%20Vicentra,%20Saya%20Ingin%20Memesan%20Mesin%20UV."
             target="_blank"
-            class="<?= ($sales['id'] === 1) ? 'bg-[#006db8]' : 'bg-green-600'; ?> sales_<?= $sales['slug']; ?>_cta_link w-full h-[5rem] flex items-center gap-[1.5rem] rounded-full relative py-2 pl-[7rem]">
+            class="<?= ($sales['id'] === 1) ? 'bg-[#006db8]' : 'bg-green-600'; ?> sales_<?= $sales['slug']; ?>_cta_link sales_cta_link w-full h-[5rem] flex items-center gap-[1.5rem] rounded-full relative py-2 pl-[7rem]">
 
             <div class="absolute left-0">
               <div class="w-[5.5rem] h-[5.5rem] rounded-full border-[0.188rem] border-white relative">
