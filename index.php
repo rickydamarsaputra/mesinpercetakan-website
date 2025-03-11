@@ -11,7 +11,7 @@ require_once('const.php');
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="author" content="Vicentra Dev" />
   <meta name="description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta name="keywords" content="mesin percetakan, mesin cetak offset, mesin digital printing, mesin cetak spanduk, mesin cetak stiker, mesin percetakan murah, jual mesin percetakan, harga mesin percetakan, distributor mesin percetakan, mesin percetakan terbaik">
   <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
   <link rel="canonical" href="https://mesinpercetakan.id" />
@@ -22,7 +22,7 @@ require_once('const.php');
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
   <meta property="og:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta property="og:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta property="og:url" content="https://mesinpercetakan.com" />
   <meta property="og:site_name" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
@@ -31,7 +31,7 @@ require_once('const.php');
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
   <meta name="twitter:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta name="twitter:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta name="twitter:site" content="https://mesinpercetakan.com" />
 
